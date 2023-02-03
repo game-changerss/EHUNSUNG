@@ -13,7 +13,6 @@
       <td align="center" width="100px;";>답안</td>
 	   <td align="center" width="100px;";>언어</td>
     </tr>
-
     <tr>
       <td align="center">
         1
@@ -40,7 +39,6 @@
       <td align="center">
         JAVA
       </td>
-    </tr>
-     
+    </tr> 
   </table>
 </div>
