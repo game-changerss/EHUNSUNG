@@ -32,7 +32,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Ehunsung/blob/main/Study1-BruteForce/Week1/Day1/BOJ_2231.java">
+        <a href="https://github.com/game-changerss/EHUNSUNG/blob/main/Week%201/BOJ_10828.java">
             Day1
         </a>
       </td>
