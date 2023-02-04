@@ -31,7 +31,7 @@ public class BOJ_10828 {
                     bw.write(stack.size() + "\n");
                     break;
                 case "empty" :
-                    bw.write(stack.empty() ? "1\n" : "0\n");
+                    bw.write((stack.empty() ? "1" : "0") + "\n");
                     break;
                 case "top" :
                     if(stack.size() == 0)
