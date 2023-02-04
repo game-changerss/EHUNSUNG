@@ -67,5 +67,32 @@
         JAVA
       </td>
     </tr> 
+    <tr>
+      <td align="center">
+        3
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/1620">
+            1620
+        </a>
+      </td>
+      <td align="center">
+        나는야 포켓몬 마스터 이다소
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/game-changerss/EHUNSUNG/blob/main/Week%201/BOJ_1620.java">
+            Day3
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr> 
   </table>
 </div>
