@@ -80,7 +80,7 @@
         </a>
       </td>
       <td align="center">
-        나는야 포켓몬 마스터 이다소
+        나는야 포켓몬 마스터 이다솜
       </td>
       <td align="center">
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
