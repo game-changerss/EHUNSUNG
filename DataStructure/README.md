@@ -32,7 +32,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/game-changerss/EHUNSUNG/blob/main/Week%201/BOJ_10828.java">
+        <a href="https://github.com/game-changerss/EHUNSUNG/blob/main/DataStructure/BOJ_1935.java">
             바로가기
         </a>
       </td>
@@ -59,7 +59,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453932-9fd875e8-79ee-4d3b-8f83-616a092b7c3a.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/game-changerss/EHUNSUNG/blob/main/Week%201/BOJ_18258.java">
+        <a href="https://github.com/game-changerss/EHUNSUNG/blob/main/DataStructure/BOJ_2164.java">
             바로가기
         </a>
       </td>
