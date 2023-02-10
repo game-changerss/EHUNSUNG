@@ -69,7 +69,7 @@
     </tr>
     <tr>
       <td align="center">
-        1
+        3
       </td>
       <td align="center">
         백준
@@ -96,7 +96,7 @@
     </tr> 
     <tr>
       <td align="center">
-        2
+        4
       </td>
       <td align="center">
         백준
