@@ -21,6 +21,60 @@
         백준
       </td>
       <td align="center">
+        <a href="https://www.acmicpc.net/problem/10828">
+            10828
+        </a>
+      </td>
+      <td align="center">
+        스택
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/game-changerss/EHUNSUNG/blob/main/자료구조/BOJ_10828.java">
+            바로가기
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr> 
+    <tr>
+      <td align="center">
+        2
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/10828">
+            18258
+        </a>
+      </td>
+      <td align="center">
+        큐 2
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
+      </td>
+      <td align="center">
+        <a href="https://github.com/game-changerss/EHUNSUNG/blob/main/자료구조/BOJ_18258.java">
+            바로가기
+        </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        1
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
         <a href="https://www.acmicpc.net/problem/2164">
             2164
         </a>
@@ -61,33 +115,6 @@
       <td align="center">
         <a href="https://github.com/game-changerss/EHUNSUNG/blob/main/DataStructure/BOJ_2164.java">
             바로가기
-        </a>
-      </td>
-      <td align="center">
-        JAVA
-      </td>
-    </tr> 
-    <tr>
-      <td align="center">
-        3
-      </td>
-      <td align="center">
-        백준
-      </td>
-      <td align="center">
-        <a href="https://www.acmicpc.net/problem/1620">
-            1620
-        </a>
-      </td>
-      <td align="center">
-        나는야 포켓몬 마스터 이다솜
-      </td>
-      <td align="center">
-        <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
-      </td>
-      <td align="center">
-        <a href="https://github.com/game-changerss/EHUNSUNG/blob/main/Week%201/BOJ_1620.java">
-            Day3
         </a>
       </td>
       <td align="center">
